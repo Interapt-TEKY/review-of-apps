@@ -6,6 +6,7 @@
     - Documentation: Mike
     - Agile, JIRA, Scrum: Greg
   - **Tuesday**
+    - TA PM: Jared
     - Git Flow: Charlie
     - Deployment: Rob
   - **Wednesday**
