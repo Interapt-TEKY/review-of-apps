@@ -78,7 +78,11 @@
 
 ## Week 5: Togglit Spalding Case Study
 
-**TODO**
+  - **Monday** 
+  - **Tuesday**
+  - **Wednesday**
+  - **Thursday**
+  - **Friday**
 
 ## Week 6: Togglit Client Projects
 
