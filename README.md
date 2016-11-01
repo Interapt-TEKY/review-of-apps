@@ -1,8 +1,13 @@
 # Review of Interapt Apps
 
-- [Week 1: Workshops](#week-1-workshops)
+- [Week 1: Interapt Workshops](#week-1-interapt-workshops)
+- [Week 2: Togglit Workshops](#week-2-togglit-workshops)
+- [Week 3: Togglit Base](#week-3-togglit-base)
+- [Week 4: Togglit Users and Events](#week-4-togglit-users-and-events)
+- [Week 5: Togglit Spalding Case Study](#week-5-togglit-spalding-case-study)
+- [Week 6: Togglit Client Projects](#week-6-togglit-client-projects)
 
-## Week 1: Workshops
+## Week 1: Interapt Workshops
 
   - **Monday** 
     - Agile, JIRA, Scrum: Greg
@@ -16,7 +21,7 @@
   - **Friday**
     - Overflow
 
-## Week 2: Workshops
+## Week 2: Togglit Workshops
 
   - **Monday** 
     - Frontend Security, Encryption: Charlie
@@ -29,7 +34,7 @@
   - **Thursday - Thanksgiving**
   - **Friday - Thanksgiving**
 
-## Week 3: Togglit v2 - Base Project
+## Week 3: Togglit Base
 
   - **Monday** 
     - Zach onsite
@@ -52,7 +57,7 @@
     - Additional Pages (About, ToS, etc.)
     - Reskinning
 
-## Week 4: Togglit v2 - Users + Events
+## Week 4: Togglit Users and Events
 
   - **Monday** 
     - Project Planning
@@ -71,11 +76,11 @@
   - **Friday**
     - Overflow
 
-## Week 5: Togglit v2 - Case Study: Spalding
+## Week 5: Togglit Spalding Case Study
 
 **TODO**
 
-## Week 6: Togglit v2 - Client Projects
+## Week 6: Togglit Client Projects
 
 There will be three projects given to clients for free. These projects will be done both in Android and iOS so that we can have three groups in either class working on an individual project. 
 
