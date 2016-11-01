@@ -5,10 +5,10 @@
   - **Monday** 
     - Agile, JIRA, Scrum: Greg
   - **Tuesday**
-    - Documentation: Mike
+    - Documentation: Izaak
     - TA PM: Jared
   - **Wednesday**
-    - Git Flow: Charlie
+    - Git Flow: Lane
   - **Thursday**
     - Deployment: Rob
   - **Friday**
@@ -69,28 +69,9 @@
   - **Friday**
     - Overflow
 
-## Week 5: Togglit v2 - Case Study: Speed Art Museum 
+## Week 5: Togglit v2 - Case Study: Spalding
 
-Will need iBeacons.
-
-  - **Monday** 
-    - Project Planning
-    - Intro to Beacons
-    - Research Beacons
-  - **Tuesday**
-    - Beacons API
-    - Build new Models
-    - Modify Targets
-  - **Wednesday**
-    - Finalize Beacons
-    - Tours
-  - **Thursday**
-    - Modified Login / Signup Screen
-    - Guests
-  - **Friday**
-    - User Profiles
-    - Barcodes
-    - BONUS: Events
+**TODO**
 
 ## Week 6: Togglit v2 - Client Projects
 
