@@ -1,5 +1,7 @@
 # Review of Interapt Apps
 
+- [Week 1: Workshops](#week-1-workshops)
+
 ## Week 1: Workshops
 
   - **Monday** 
