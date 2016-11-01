@@ -3,41 +3,38 @@
 ## Week 1: Workshops
 
   - **Monday** 
-    - Documentation: Mike
     - Agile, JIRA, Scrum: Greg
   - **Tuesday**
+    - Documentation: Mike
     - TA PM: Jared
-    - Git Flow: Charlie
-    - Deployment: Rob
   - **Wednesday**
-    - Android Studio In-Depth: Holden
-    - Android Common Libraries: Holden
-    - XCode In-Depth: Zach
-    - iOS Common Libraries: Zach
+    - Git Flow: Charlie
   - **Thursday**
-    - Scribblit API: Zach, Holden
+    - Deployment: Rob
   - **Friday**
-    - Scribblit Reskinning: Zach, Holden
+    - Overflow
 
 ## Week 2: Workshops
 
   - **Monday** 
-    - Front-End Security: Charlie
-    - Firebase: Mike
+    - Frontend Security, Encryption: Charlie
+    - Backend Security, Authentication: Mike
   - **Tuesday**
-    - Authentication: Mike
-    - Encryption: Charlie
+    - Firebase: Mike
+    - Togglit API: Charlie
   - **Wednesday**
-    - Togglit API: Zach, Holden
+    - Overflow
   - **Thursday - Thanksgiving**
   - **Friday - Thanksgiving**
 
 ## Week 3: Togglit v2 - Base Project
 
   - **Monday** 
+    - Zach onsite
     - Project Planning
     - API Foundation
   - **Tuesday**
+    - Zach onsite
     - Targets
     - Pods
     - Menu
