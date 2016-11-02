@@ -79,10 +79,20 @@
 ## Week 5: Togglit Spalding Case Study
 
   - **Monday** 
+    - Project Planning
+    - Implement API
+    - Modify User authentication
+    - Login / Signup
   - **Tuesday**
+    - Units
+    - Practice Questions
   - **Wednesday**
+    - Test Bank
   - **Thursday**
+    - Exams
   - **Friday**
+    - Reskinning
+    - Overflow
 
 ## Week 6: Togglit Client Projects
 
